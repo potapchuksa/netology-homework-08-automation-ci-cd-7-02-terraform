@@ -8,4 +8,13 @@
 
 В связи с недоступностью ресурсов для загрузки Terraform на территории РФ, вы можете использовать зеркало из репозитория по [ссылке](https://github.com/netology-code/devops-materials).
 
+### Решение
+
+Скачал терраформ по ссылке
+
+[https://releases.comcloud.xyz/terraform/1.9.8/terraform_1.9.8_linux_amd64.zip]https://releases.comcloud.xyz/terraform/1.9.8/terraform_1.9.8_linux_amd64.zip
+
 2. Повторите демо из лекции!
+
+.
+### Решение
