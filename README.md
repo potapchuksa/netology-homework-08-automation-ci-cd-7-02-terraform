@@ -14,6 +14,10 @@
 
 [https://releases.comcloud.xyz/terraform/1.9.8/terraform_1.9.8_linux_amd64.zip]https://releases.comcloud.xyz/terraform/1.9.8/terraform_1.9.8_linux_amd64.zip
 
+Распаковал и положил в папку /usr/bin/ и проверил версию.
+
+![](img/img-01-01.png)
+
 2. Повторите демо из лекции!
 
 .
